@@ -1,3 +1,2 @@
-c = 'd'
-while c == 'd':
-    print('sim')
+a = 'oi'
+print(a.center(1))
